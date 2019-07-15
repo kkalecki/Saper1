@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saper</string>
+    <string name="title_activity_content_main">content_main</string>
+    <string name="title_activity_main">Activity_main</string>
+</resources>
